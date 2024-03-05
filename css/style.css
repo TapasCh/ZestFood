@@ -675,32 +675,7 @@
 .footer-link:active {
   color: #555;
 }
-.hero-img1{
-  height: 375px;
-  width: 320px;
-  object-fit: cover;
-  position: absolute;
-  top: 20%;
-   left: 63%;
-   z-index: 1; 
-}
-
-
-.hero-img2{
-  width: 400px ;
-  object-fit: cover;
-  position: absolute;
-  top: 68%;
-  left: 55%;
-  z-index: 3; 
-}
-.hero-img3{
+.imgph{
   
-  width: 330px   ;
-  height: 280px;
-  object-fit: cover;
-  position: absolute;
-  top: 50%;
-  left: 72%;
-  z-index: 2; 
+  height: 50%;
 }
